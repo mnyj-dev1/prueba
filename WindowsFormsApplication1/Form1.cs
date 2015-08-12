@@ -14,6 +14,8 @@ namespace WindowsFormsApplication1
     {
         public Form1()
         {
+            string Nombre = string.Empty;
+
             InitializeComponent();
         }
     }
